@@ -15,4 +15,4 @@ If you have great ideas or have any API program make a PR and we will work on it
 - Your program should satisfy the goal of this repo.
 
 <br></br>
-***Thank You, you are set to contribute to this repo.***
+***Thank You, you are all set to contribute to this repo.***
