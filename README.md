@@ -1,4 +1,7 @@
 # Project IMAPI
+#### Badges
+[![CodeFactor](https://www.codefactor.io/repository/github/mayuresh-22/imapi/badge)](https://www.codefactor.io/repository/github/mayuresh-22/imapi)
+
 All API related projects.
 
 - ## [nasa_api](nasa_api/main.py)
